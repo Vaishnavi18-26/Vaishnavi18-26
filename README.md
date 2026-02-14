@@ -1,16 +1,28 @@
-## Hi there 👋
+👩‍💻 Hi, I’m Vaishnavi.
 
-<!--
-**Vaishnavi18-26/Vaishnavi18-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering undergraduate (2023–2027), Bhubaneswar, India.  
+I’m interested in backend development, IoT systems, and understanding how software connects with real-world hardware.
 
-Here are some ideas to get you started:
+🔍 Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend development using Python  
+- IoT-based systems using ESP32 and sensors  
+- Software–hardware interaction  
+- Learning and applying machine learning fundamentals  
+- Problem-solving and logical thinking  
+
+🧩 Skills & Technologies
+
+- Programming Languages: Python, Java, C  
+- Web Technologies: HTML, CSS, Bootstrap  
+- Backend: Flask (basic)  
+- Databases: MySQL  
+- Tools: Git, GitHub, VS Code, Google Colab  
+- Core Concepts: Object-Oriented Programming, Basic Data Structures  
+
+
+📞 Contact
+Email: vaishnavisuman2@gmail.com  
+GitHub:https://github.com/Vaishnavi18-26
+
+

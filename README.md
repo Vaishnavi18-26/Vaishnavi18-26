@@ -5,7 +5,7 @@ I’m interested in backend development, IoT systems, and understanding how soft
 
 ## 🔥 My GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true)
 
 🔍 Areas of Interest
 

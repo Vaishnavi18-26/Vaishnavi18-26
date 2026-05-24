@@ -3,10 +3,6 @@
 🎓 Computer Science Engineering undergraduate (2023–2027), Bhubaneswar, India.  
 I’m interested in backend development, IoT systems, and understanding how software connects with real-world hardware.
 
-## 🔥 My GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true)
-
 🔍 Areas of Interest
 
 - Backend development using Python  
